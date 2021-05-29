@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Api key
-Create a .env file in the root folder and include you OpenWeather Api key. Name it as  
+Create a .env file in the root folder and include you OpenWeather Api key. Name it as REACT_APP_WEATHER_API or you can include your api key directly into the api's url
 
 ## Available Scripts
 
